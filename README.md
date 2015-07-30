@@ -7,6 +7,7 @@ A curated list of awesome JSON data sets that don't require authentication.
 * [Reddit](#reddit)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
+* [License](#license)
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
@@ -35,7 +36,7 @@ A curated list of awesome JSON data sets that don't require authentication.
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
-## Contribute
+## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
