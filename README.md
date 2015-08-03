@@ -59,6 +59,11 @@ A curated list of awesome JSON data sets that don't require authentication.
 
 > Pro Tip: you can append `.json` to any subreddit url.
 
+## Other
+
+* [World Countries](https://github.com/mledoze/countries)
+* [VAT rates for EU](http://jsonvat.com/)
+
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [JSON](https://github.com/burningtree/awesome-json) (Libraries and Resources)
